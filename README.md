@@ -16,3 +16,9 @@ Depening on the XCode version, a number of Deprecation Warning may appear, targe
 The app is to be further developped. Future features include:
 1. A table view controller for the employees in each building
 2. An employees database, formatted in a .json file that could be accessed by the EmployeeStore.m class.
+
+# How to run the project in MacOS
+1. Download or clone all the files
+2. Open NYUAD Campus copy.xcodeproj file in Xcode
+
+For more details, check out the report and the screen video.
